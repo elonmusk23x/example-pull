@@ -1,2 +1,2 @@
-# example-pull
+# repository for practing git-pull
 bamba
