@@ -1,2 +1,2 @@
-# repository for practing git-pull
+# repository for practing git-pull(bombastic,russia)
 bamba
